@@ -1,4 +1,4 @@
-# FILEPATH
+# Frank Freeman Web Developer
 
 def frank_web_developer():
 """
@@ -9,9 +9,3 @@ Highly experienced web developer with over 15 years of experience in web design,
 Returns:
 None
 """
-
-# Function implementation goes here
-
-pass
-
-# Frank Freeman Web Developer
