@@ -1,9 +1,7 @@
 # Frank Freeman Web Developer
 
 """
-Function to describe Frank, a web developer.
 Highly experienced web developer with over 15 years of experience in web design, development, testing, and code and application implementation. Proficient in utilizing methodologies such as Scrum and XP, and experienced in creating both internet and intranet websites using technologies like Symphony, Laravel, WordPress, Node.js, Vue.js, Angular, and React. Strong team player with a proven ability to deliver results.
-
 """
 
 ## More About Me
@@ -15,7 +13,7 @@ Here are a few things that describe me:
 - 💻 Experienced in web design and development
 - 🚀 Proficient in Scrum and XP methodologies
 - 🌐 Skilled in creating internet and intranet websites
-- 🛠️ Familiar with technologies like Symphony, Laravel, WordPress, Node.js, Vue.js, Angular, and React
+- 🛠️ Familiar with technologies like JavaScript, TypeScript, Symphony, Laravel, WordPress, Node.js, Vue.js, Angular, and React
 - 🤝 Strong team player with a proven ability to deliver results
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. Let's create something amazing together!
