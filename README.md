@@ -20,8 +20,8 @@ Feel free to reach out to me if you have any questions or if you'd like to colla
 
 You can find me on the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/frank-renato-freeman-lopez-32840b60)
-- [GitHub](https://github.com/figuitiko)
-- [Personal Website](https://portfolio-ffreeman.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/frank-renato-freeman-lopez-32840b60){: .btn}
+- [GitHub](https://github.com/figuitiko){: .btn}
+- [Personal Website](https://portfolio-ffreeman.vercel.app){: .btn}
 
 Feel free to connect with me on any of these platforms to stay updated with my latest projects and to get in touch with me. Let's connect and create something amazing together!
